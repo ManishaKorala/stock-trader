@@ -1,10 +1,9 @@
 # stock-trader
 
 ## Project Description
-```
-A Stock Trader app to buy and sell stocks. User can also `Save Data` to save state of the project and
-`Load Data` to resume that state. The day can be ended to calculate Profit/Loss from buying/selling stocks.
-```
+
+A Stock Trader app to buy and sell stocks from allocated funds. User can also `Save Data` to save state of the project and use `Load Data` anytime to resume that particular saved state. The day can be ended using `End Day` and stocks can be sold to calculate Profit/Loss from buying/selling stocks.
+
 
 ## Project setup
 ```
@@ -25,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
